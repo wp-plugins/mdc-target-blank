@@ -12,7 +12,7 @@ MDC Target Blank forces links in posts or pages to be opened in a new tab. You d
 
 == Description ==
 
-MDC Target Blank forces links in posts or pages to be opened in a new tab. You don't have to write `target="_blank"` manually! Cheers..
+MDC Target Blank forces links in posts or pages to be opened in a new tab. You don't have to write target="_blank" manually! Cheers..
 
 == Installation ==
 

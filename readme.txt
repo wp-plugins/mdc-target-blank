@@ -1,7 +1,7 @@
 === MDC Target Blank ===
 Contributors: mukto90
 Donate link: http://mukto.medhabi.com/
-Tags: new tab, link new tab, target _blank, target blank, external link, open in new tab
+Tags: new tab, link new tab, target _blank, target blank, external link, open in new tab, mdc
 Requires at least: 3.0.1
 Tested up to: 3.9.1
 Stable tag: 1.0.0

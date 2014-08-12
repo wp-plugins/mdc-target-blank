@@ -6,7 +6,7 @@
 	Author URI: http://mukto.medhabi.com
 	Plugin URI: http://mukto.medhabi.com
 	Version: 1.0.0
-	Tags: new tab, link new tab, target _blank, target blank, external link, open in new tab
+	Tags: new tab, link new tab, target _blank, target blank, external link, open in new tab, mdc
 */
 function mdc_target_blank($content) {
 	global $post;
